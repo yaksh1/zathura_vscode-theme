@@ -2,8 +2,9 @@
 
 VSCode Theme based on zathura space movie.Features full Workbench theming.
 
+<h2>
 ```Link:``` [Zatura](https://huggingface.co/spaces/yaksh1/Zathura)
-
+</h2>
 ![Getting Started](./screenshot.png)
 
 ## Inconsistencies?

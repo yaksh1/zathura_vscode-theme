@@ -1,9 +1,9 @@
-# TeneBris Theme
+# Zathura Theme
 
-VSCode Theme based on zathura space movie.Features full Workbench theming.
+VSCode Theme based on Zathura space movie.Features full Workbench theming.
 
 
-### <code>Link:</code> [Zatura.com](https://huggingface.co/spaces/yaksh1/Zathura)
+### <code>Link:</code> [Zathura.com](https://huggingface.co/spaces/yaksh1/Zathura)
 
 ![Getting Started](./screenshot.png)
 
